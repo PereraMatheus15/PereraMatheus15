@@ -1,5 +1,5 @@
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pereramatheus15&layout=compact&langs_count=7&theme=dark"/>
-<img align="center" alt="caioribeirodev-CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg%22%3E
+<img align="center" alt="pereramatheus15-CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   
  
 <div>  
