@@ -1,86 +1,23 @@
-<!-- HEADER VISUAL -->
+## GITHUB
+
 <div align="center">
 
-# ZZARIS // NEURAL SYSTEMS LAB
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=PereraMatheus15&show_icons=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/>
 
-AI • Embedded Systems • Automation • Experimental Intelligence
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PereraMatheus15&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/>
 
 </div>
 
 ---
 
-## SYSTEM OVERVIEW
-
-I build experimental systems that combine artificial intelligence, embedded hardware and autonomous logic.
-
-Focus areas:
-- Neural architectures and cognitive simulation systems
-- ESP32 / microcontroller automation
-- Real-time data processing systems
-- AI-driven assistants and tooling frameworks
-
----
-
-## CORE STACK
-
-**AI / Software**
-- Python (core systems, neural logic)
-- PyTorch / NumPy (experimental ML)
-- FastAPI (APIs and services)
-- SQLite / vector storage systems
-
-**Hardware / Embedded**
-- ESP32 / Arduino
-- Sensor integration (IoT systems)
-- Serial communication / BLE / Wi-Fi modules
-
-**Systems**
-- Event-driven architectures
-- Memory systems (short/long term models)
-- Observability + logging pipelines
-
----
-
-## FEATURED PROJECTS
-
-### ZZARIS CORE
-Autonomous cognitive system with memory, reasoning loop and modular neural pipeline.
-→ Focus: artificial cognition architecture
-
-### MORPHEU SYSTEM
-Voice-driven assistant with real-time execution loop and local processing.
-→ Focus: interaction + automation layer
-
-### ESP32 NETWORK MODULES
-Embedded devices for environmental sensing and remote control.
-→ Focus: IoT + distributed systems
-
-### AI OBSERVABILITY LAYER
-Non-intrusive logging and system introspection layer for AI agents.
-→ Focus: debugging + transparency in cognition systems
-
----
-
-## SYSTEM METRICS
+## CONTATO
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true)
+<a href="https://www.instagram.com/o_matheusalmeida/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-00bfbf?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
 </div>
 
 ---
-
-## CONTACT / NETWORK
-
-- Email: seuemail@exemplo.com  
-- GitHub: https://github.com/SEU_USUARIO  
-- Projects: experimental AI + embedded systems
-
----
-
-## DEVELOPMENT PHILOSOPHY
-
-Systems should not only execute tasks — they should evolve structure, memory and behavior over time.
